@@ -1,0 +1,27 @@
+body{
+  background: linear-gradient(45deg, #0f0e0f 0%, #2f2f2f 100%);
+  box-shadow: inset 0 0 5rem rgba(82, 91, 88, .5);
+  margin:0px;
+}
+h1{
+  margin:0px;
+}
+nav{
+  background-color: rgb(56, 52, 75);
+  padding:1em;
+}
+table{
+  color:rgb(236, 241, 246);
+  margin-top:2em;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 3%;
+}
+table, th, td{
+  border-spacing: 5px;
+  border: 2px solid rgb(212, 217, 207);
+}
+
+html,body{
+  height:100%;
+}
