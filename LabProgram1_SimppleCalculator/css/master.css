@@ -1,0 +1,24 @@
+html,body{
+  height:100%;
+  margin:0px;
+}
+
+h1{
+  text-align: center;
+  margin:0px;
+  padding-top:2em;
+  margin-bottom:2em;
+}
+
+table,tr,td{
+  border: 1px solid black;
+  margin:auto;
+}
+
+button{
+  width:100%;
+}
+
+#calculatorscreen{
+  text-align: right;
+}
